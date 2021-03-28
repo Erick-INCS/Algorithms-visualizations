@@ -1,0 +1,11 @@
+.actionHistory {
+    background-color: darkseagreen;
+    height: 100%;
+    width: 30vw;
+    position: fixed;
+}
+
+h1 {
+    color: #fff;
+    margin: 1.3em;
+}

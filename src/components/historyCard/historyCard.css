@@ -1,0 +1,10 @@
+.h-card {
+    margin: 1em 2em;
+    padding: 1em;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.h-card.selected {
+    border-left: 4px solid brown;
+}
